@@ -11,7 +11,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Bio extends Model {
   name     = 'Michał Jankowski';
-  title    = 'In the future Full Stack Developer';
+  title    = 'In the future Laravel Developer';
   company  = ' - ';
   location = 'Lublin, PL';
 }
